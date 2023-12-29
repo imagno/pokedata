@@ -12,3 +12,7 @@ A fonte dos dados foi um arquivo .csv disponibilizado no github:
 - Dados
 
     [Dados Pokemon](https://gist.github.com/armgilles/194bcff35001e7eb53a2a8b441e8b2c6/)
+
+
+## Instruções de uso
+**Para ter acesso aos dados tratados, basta executar as células dos notebooks em ordem começando do imports e subsequentemente o analytics.**
